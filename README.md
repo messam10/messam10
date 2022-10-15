@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @messam10
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science & Front-End Development
 - 🌱 I’m currently learning ERPNext
 - 💞️ I’m looking to collaborate on Frappe
 - 📫 How to reach me malqershi98@gmail.com
